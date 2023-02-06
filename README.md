@@ -19,3 +19,4 @@ Here are a few of the most popular stages and techniques for data cleaning:
 •	Handling structural errors
 •	Getting rid of unwanted observations
 
+Some stepes taken by me to clean this dataset
