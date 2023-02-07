@@ -96,4 +96,4 @@ Finally, on this dashboard, all the data can be seen at a glance. Since this is 
 
 **In conclution** 
 
-After carefully analyzing the customer's dataset and after having a complete understanding of the circumstances, goal-driven recommendations about Sprocket Central Pty Ltd were made.
+After carefully evaluating the provided dataset and having a thorough understanding of the conditions, it was discovered that the United States of America, which has the most companies and industries, is also leading other companies in terms of layoffs.
