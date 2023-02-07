@@ -41,12 +41,12 @@ Firstly, I alighted all using Ctrl+A and converting the dataset to a table forma
 
 
 
-**DATA VISUALIZATION **
+**DATA VISUALIZATION**
 
 There are about 245,117 personnel who were laid off from 1,489 companies, across 55 different countries, amongst 28 industries. Below are few visualizations;
 
 
-**Top 10 industries by fund raised **
+**Top 10 industries by fund raised**
 
 
 A column chart indicates the top 10 industries by fund raised. The media industry takes the lead with $501,984B while the transportation, Consumer, Real Estate, Finance, Food, Retail, Healthcare Travel, and others takes 256,593; 117,853; 96,859; 88,7541; 79881; 49,195; 39,859; 28572; 23,975 in Billion dollars respectively.
@@ -56,6 +56,7 @@ A column chart indicates the top 10 industries by fund raised. The media industr
 
 
 **ANNUNAL FUND RAISED**
+
 Even though there were much more firm layoffs in 2022 than in previous years, 74% of the total funds were raised.
 
 ![Screenshot (244)](https://user-images.githubusercontent.com/124578882/217312717-c37637fd-2b5e-4331-a420-1e61a9e2fe77.png)
