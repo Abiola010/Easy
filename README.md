@@ -21,27 +21,39 @@ Here are a few of the most popular stages and techniques for data cleaning:
 •	Getting rid of unwanted observations
 
 Some stepes taken by me to clean this dataset
-Firstly, I alighted all using Ctrl+A and converting the dataset to a table format using Ctrl+T and formatting the table,
-![Screenshot (239)](https://user-images.githubusercontent.com/124578882/217310920-1400b130-aa03-42cc-a14f-151ff09659c1.png)
+Firstly, I alighted all using Ctrl+A and converting the dataset to a table format using Ctrl+T and formatting the table.
+
+![Screenshot (239)](https://user-images.githubusercontent.com/124578882/217318580-2097c967-d7cd-4288-83b7-df02c89b74f1.png)
 
 -Arraigning the industry(firms) in ascending order
 
+
 -Removing duplicate values
+
 
 -Change data type for Percentage laid_off to percentage format
 
+
 -Inserting some columns named Total b4 layoff, Total after layoff, Year, Month, Day, Month which =IFERROR (D2/E2, 0); =IFERROR(J2-D2,0); =YEAR(F2); =MONTH(F2); =DAY(F2); also using the IFS function  on Microsoft excel respectively on the table
+
 
 -Changing the data type of funds raised from general to Currency format after which I summarized the table to pivot table.
 
 
+
 **DATA VISUALIZATION **
+
 There are about 245,117 personnel who were laid off from 1,489 companies, across 55 different countries, amongst 28 industries. Below are few visualizations;
 
+
 **Top 10 industries by fund raised **
- A column chart indicates the top 10 industries by fund raised. The media industry takes the lead with $501,984B while the transportation, Consumer, Real Estate, Finance, Food, Retail, Healthcare Travel, and others takes 256,593; 117,853; 96,859; 88,7541; 79881; 49,195; 39,859; 28572; 23,975 in Billion dollars respectively.
+
+
+A column chart indicates the top 10 industries by fund raised. The media industry takes the lead with $501,984B while the transportation, Consumer, Real Estate, Finance, Food, Retail, Healthcare Travel, and others takes 256,593; 117,853; 96,859; 88,7541; 79881; 49,195; 39,859; 28572; 23,975 in Billion dollars respectively.
  
 ![Screenshot (243)](https://user-images.githubusercontent.com/124578882/217312498-3445779c-aca2-4bba-8a7c-b190f31ca7f8.png)
+
+
 
 **ANNUNAL FUND RAISED**
 Even though there were much more firm layoffs in 2022 than in previous years, 74% of the total funds were raised.
@@ -58,8 +70,8 @@ Out of One thousand four hundred and eighty-nine (1489), Netflix, Meta, Uber, Te
 **COMPANY’S STAGE LAY-OFF**
 As known that every individual, organization and companies are all in stages. Companies can be classified into different stages such Acquired, IPO, Private Equity, Seed, Series A, B, C, D, E, F, G, H, I, J while company’s stage wasn’t captured in the dataset. Below is a chart showing the top five (5) stages of companies by lay-off.
 
-
 ![247](https://user-images.githubusercontent.com/124578882/217313819-3ae22e8c-2745-4f96-baea-c91848f67fcc.png)
+
 
 **Initial Public Offering (IPO) Funding Stage:** The procedure for launching a first-ever public offering of corporation shares.
 
