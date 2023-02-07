@@ -63,12 +63,16 @@ Even though there were much more firm layoffs in 2022 than in previous years, 74
 
 
 **Top Companies** 
+
+
 Out of One thousand four hundred and eighty-nine (1489), Netflix, Meta, Uber, Tesla and Tencent are the top five (5) companies
 
 ![245](https://user-images.githubusercontent.com/124578882/217313148-9c80d0fc-6476-46e9-a067-369f45633389.PNG)
 
 
 **COMPANY’S STAGE LAY-OFF**
+
+
 As known that every individual, organization and companies are all in stages. Companies can be classified into different stages such Acquired, IPO, Private Equity, Seed, Series A, B, C, D, E, F, G, H, I, J while company’s stage wasn’t captured in the dataset. Below is a chart showing the top five (5) stages of companies by lay-off.
 
 ![247](https://user-images.githubusercontent.com/124578882/217313819-3ae22e8c-2745-4f96-baea-c91848f67fcc.png)
