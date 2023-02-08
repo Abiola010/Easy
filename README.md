@@ -94,6 +94,6 @@ Finally, on this dashboard, all the data can be seen at a glance. Since this is 
 ![Screenshot (248)](https://user-images.githubusercontent.com/124578882/217316719-1034e847-916e-4954-9ba0-2b085cd6215a.png)
 
 
-**In conclution** 
+**In conclusion** 
 
 After carefully evaluating the provided dataset and having a thorough understanding of the conditions, it was discovered that the United States, which has the most companies and industries, is also leading other companies in terms of layoffs.
